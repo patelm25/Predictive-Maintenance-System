@@ -24,8 +24,8 @@ class Sensor {
         
         virtual ~Sensor() {}
         
-        virtual double readValue() = 0;
-        virtual string getSensorType() = 0;
+        virtual double simulateValue() = 0;
+        virtual string sensorType() = 0;
         
         bool isValueValid(double value) {
             return (value >= minValue && value <= maxValue);
@@ -48,11 +48,11 @@ class tempSensor : public Sensor {
     public:
         tempSensor(const string& id) : Sensor(id, 20, 100) {}
         
-        double readValue() override {
+        double simulateValue() override {
             return rand() % 121;
         }
         
-        string getSensorType() override {
+        string sensorType() override {
             return "Temperature";
         }
 };
@@ -61,11 +61,11 @@ class pressureSensor : public Sensor {
     public:
         pressureSensor(const string& id) : Sensor(id, 100, 500) {}
         
-        double readValue() override {
+        double simulateValue() override {
             return rand() % 601;
         }
         
-        string getSensorType() override {
+        string sensorType() override {
             return "Pressure";
         }
 };
@@ -74,11 +74,11 @@ class vibrationSensor : public Sensor {
     public:
         vibrationSensor(const string& id) : Sensor(id, 10, 40) {}
         
-        double readValue() override {
+        double simulateValue() override {
             return rand() % 61;
         }
         
-        string getSensorType() override {
+        string sensorType() override {
             return "Vibration";
         }
 };
@@ -116,7 +116,7 @@ class logger {
         
         void logReading(Sensor* sensor, double value) {
             logFile << "Time: " << time(nullptr) 
-                    << " - " << sensor->getSensorType() << " Sensor " 
+                    << " - " << sensor->sensorType() << " Sensor " 
                     << sensor->getSensorId() << ": " << value;
             
             if (!sensor->isValueValid(value)) {
@@ -125,6 +125,9 @@ class logger {
                     << sensor->getMaxValue() << "]";
             }
             logFile << endl;
+        }
+        void lineDivider() {
+            logFile << "____________________________________________________" << endl;
         }
 };
 
@@ -148,11 +151,11 @@ class machineHealthMonitor {
             cout << "\nChecking all sensors..." << endl;
             
             for (auto sensor : sensors) {
-                double value = sensor->readValue();
+                double value = sensor->simulateValue();
                 
                 logger.logReading(sensor, value);
                 
-                cout << sensor->getSensorType() << " Sensor " 
+                cout << sensor->sensorType() << " Sensor " 
                     << sensor->getSensorId() << ": " << value;
                 
                 if (!sensor->isValueValid(value)) {
@@ -160,6 +163,9 @@ class machineHealthMonitor {
                 }
                 cout << endl;
             }
+        }
+        void lineDivider(){
+            logger.lineDivider();
         }
 };
 
@@ -179,6 +185,7 @@ int main() {
     for (int i = 0; i < 5; ++i) {
         monitor.simulate();
         cout << ".........................................\n";
+        monitor.lineDivider();
         this_thread::sleep_for(chrono::seconds(1));
     }
     
