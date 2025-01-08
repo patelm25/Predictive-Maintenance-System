@@ -1,90 +1,100 @@
-Time: 1736277102 - Temperature Sensor TEMP001: 43
-Time: 1736277102 - Pressure Sensor PRES001: 481
-Time: 1736277102 - Vibration Sensor VIB001: 8 WARNING: Value outside safe range [10 - 40]
-Time: 1736277103 - Temperature Sensor TEMP001: 28
-Time: 1736277103 - Pressure Sensor PRES001: 98 WARNING: Value outside safe range [100 - 500]
-Time: 1736277103 - Vibration Sensor VIB001: 32
-Time: 1736277104 - Temperature Sensor TEMP001: 111 WARNING: Value outside safe range [20 - 100]
-Time: 1736277104 - Pressure Sensor PRES001: 346
-Time: 1736277104 - Vibration Sensor VIB001: 30
-Time: 1736277105 - Temperature Sensor TEMP001: 3 WARNING: Value outside safe range [20 - 100]
-Time: 1736277105 - Pressure Sensor PRES001: 524 WARNING: Value outside safe range [100 - 500]
-Time: 1736277105 - Vibration Sensor VIB001: 20
-Time: 1736277106 - Temperature Sensor TEMP001: 44
-Time: 1736277106 - Pressure Sensor PRES001: 383
-Time: 1736277106 - Vibration Sensor VIB001: 30
-Time: 1736277113 - Temperature Sensor TEMP001: 79
-Time: 1736277113 - Pressure Sensor PRES001: 263
-Time: 1736277113 - Vibration Sensor VIB001: 28
-Time: 1736277114 - Temperature Sensor TEMP001: 40
-Time: 1736277114 - Pressure Sensor PRES001: 230
-Time: 1736277114 - Vibration Sensor VIB001: 27
-Time: 1736277115 - Temperature Sensor TEMP001: 7 WARNING: Value outside safe range [20 - 100]
-Time: 1736277115 - Pressure Sensor PRES001: 313
-Time: 1736277115 - Vibration Sensor VIB001: 5 WARNING: Value outside safe range [10 - 40]
-Time: 1736277116 - Temperature Sensor TEMP001: 89
-Time: 1736277116 - Pressure Sensor PRES001: 99 WARNING: Value outside safe range [100 - 500]
-Time: 1736277116 - Vibration Sensor VIB001: 17
-Time: 1736277117 - Temperature Sensor TEMP001: 39
-Time: 1736277117 - Pressure Sensor PRES001: 209
-Time: 1736277117 - Vibration Sensor VIB001: 6 WARNING: Value outside safe range [10 - 40]
-Time: 1736314437 - Temperature Sensor TEMP001: 64
-Time: 1736314437 - Pressure Sensor PRES001: 568 WARNING: Value outside safe range [100 - 500]
-Time: 1736314437 - Vibration Sensor VIB001: 14
-Time: 1736314438 - Temperature Sensor TEMP001: 82
-Time: 1736314438 - Pressure Sensor PRES001: 390
-Time: 1736314438 - Vibration Sensor VIB001: 33
-Time: 1736314439 - Temperature Sensor TEMP001: 58
-Time: 1736314439 - Pressure Sensor PRES001: 546 WARNING: Value outside safe range [100 - 500]
-Time: 1736314439 - Vibration Sensor VIB001: 17
-Time: 1736314440 - Temperature Sensor TEMP001: 41
-Time: 1736314440 - Pressure Sensor PRES001: 299
-Time: 1736314440 - Vibration Sensor VIB001: 2 WARNING: Value outside safe range [10 - 40]
-Time: 1736314441 - Temperature Sensor TEMP001: 53
-Time: 1736314441 - Pressure Sensor PRES001: 393
-Time: 1736314441 - Vibration Sensor VIB001: 44 WARNING: Value outside safe range [10 - 40]
-Time: 1736314882 - Temperature Sensor TEMP001: 65
-Time: 1736314882 - Pressure Sensor PRES001: 81 WARNING: Value outside safe range [100 - 500]
-Time: 1736314882 - Vibration Sensor VIB001: 1 WARNING: Value outside safe range [10 - 40]
-Time: 1736314883 - Temperature Sensor TEMP001: 17 WARNING: Value outside safe range [20 - 100]
-Time: 1736314883 - Pressure Sensor PRES001: 452
-Time: 1736314883 - Vibration Sensor VIB001: 49 WARNING: Value outside safe range [10 - 40]
-Time: 1736314884 - Temperature Sensor TEMP001: 9 WARNING: Value outside safe range [20 - 100]
-Time: 1736314884 - Pressure Sensor PRES001: 502 WARNING: Value outside safe range [100 - 500]
-Time: 1736314884 - Vibration Sensor VIB001: 18
-Time: 1736314885 - Temperature Sensor TEMP001: 85
-Time: 1736314885 - Pressure Sensor PRES001: 17 WARNING: Value outside safe range [100 - 500]
-Time: 1736314885 - Vibration Sensor VIB001: 11
-Time: 1736314886 - Temperature Sensor TEMP001: 59
-Time: 1736314886 - Pressure Sensor PRES001: 37 WARNING: Value outside safe range [100 - 500]
-Time: 1736314886 - Vibration Sensor VIB001: 6 WARNING: Value outside safe range [10 - 40]
-Time: 1736314900 - Temperature Sensor TEMP001: 3 WARNING: Value outside safe range [20 - 100]
-Time: 1736314900 - Pressure Sensor PRES001: 264
-Time: 1736314900 - Vibration Sensor VIB001: 37
-Time: 1736314901 - Temperature Sensor TEMP001: 34
-Time: 1736314901 - Pressure Sensor PRES001: 324
-Time: 1736314901 - Vibration Sensor VIB001: 59 WARNING: Value outside safe range [10 - 40]
-Time: 1736314902 - Temperature Sensor TEMP001: 56
-Time: 1736314902 - Pressure Sensor PRES001: 125
-Time: 1736314902 - Vibration Sensor VIB001: 58 WARNING: Value outside safe range [10 - 40]
-Time: 1736314903 - Temperature Sensor TEMP001: 66
-Time: 1736314903 - Pressure Sensor PRES001: 359
-Time: 1736314903 - Vibration Sensor VIB001: 10
-Time: 1736314904 - Temperature Sensor TEMP001: 19 WARNING: Value outside safe range [20 - 100]
-Time: 1736314904 - Pressure Sensor PRES001: 555 WARNING: Value outside safe range [100 - 500]
-Time: 1736314904 - Vibration Sensor VIB001: 16
-Time: 1736315645 - Temperature Sensor TEMP001: 16 WARNING: Value outside safe range [20 - 100]
-Time: 1736315645 - Pressure Sensor PRES001: 101
-Time: 1736315645 - Vibration Sensor VIB001: 34
-Time: 1736315646 - Temperature Sensor TEMP001: 105 WARNING: Value outside safe range [20 - 100]
-Time: 1736315646 - Pressure Sensor PRES001: 142
-Time: 1736315646 - Vibration Sensor VIB001: 32
-Time: 1736315647 - Temperature Sensor TEMP001: 25
-Time: 1736315647 - Pressure Sensor PRES001: 23 WARNING: Value outside safe range [100 - 500]
-Time: 1736315647 - Vibration Sensor VIB001: 16
-Time: 1736315648 - Temperature Sensor TEMP001: 16 WARNING: Value outside safe range [20 - 100]
-Time: 1736315648 - Pressure Sensor PRES001: 206
-Time: 1736315648 - Vibration Sensor VIB001: 57 WARNING: Value outside safe range [10 - 40]
-Time: 1736315649 - Temperature Sensor TEMP001: 68
-Time: 1736315649 - Pressure Sensor PRES001: 476
-Time: 1736315649 - Vibration Sensor VIB001: 49 WARNING: Value outside safe range [10 - 40]
+Time: 1736319292 - Temperature Sensor TEMP001: 91
+Time: 1736319292 - Pressure Sensor PRES001: 597 WARNING: Value outside safe range [100 - 500]
+Time: 1736319292 - Vibration Sensor VIB001: 15
+____________________________________________________
+Time: 1736319293 - Temperature Sensor TEMP001: 14 WARNING: Value outside safe range [20 - 100]
+Time: 1736319293 - Pressure Sensor PRES001: 332
+Time: 1736319293 - Vibration Sensor VIB001: 41 WARNING: Value outside safe range [10 - 40]
+____________________________________________________
+Time: 1736319294 - Temperature Sensor TEMP001: 119 WARNING: Value outside safe range [20 - 100]
+Time: 1736319294 - Pressure Sensor PRES001: 9 WARNING: Value outside safe range [100 - 500]
+Time: 1736319294 - Vibration Sensor VIB001: 23
+____________________________________________________
+Time: 1736319295 - Temperature Sensor TEMP001: 37
+Time: 1736319295 - Pressure Sensor PRES001: 105
+Time: 1736319295 - Vibration Sensor VIB001: 38
+____________________________________________________
+Time: 1736319296 - Temperature Sensor TEMP001: 75
+Time: 1736319296 - Pressure Sensor PRES001: 408
+Time: 1736319296 - Vibration Sensor VIB001: 40
+____________________________________________________
+Time: 1736319310 - Temperature Sensor TEMP001: 28
+Time: 1736319310 - Pressure Sensor PRES001: 465
+Time: 1736319310 - Vibration Sensor VIB001: 51 WARNING: Value outside safe range [10 - 40]
+____________________________________________________
+Time: 1736319311 - Temperature Sensor TEMP001: 31
+Time: 1736319311 - Pressure Sensor PRES001: 204
+Time: 1736319311 - Vibration Sensor VIB001: 1 WARNING: Value outside safe range [10 - 40]
+____________________________________________________
+Time: 1736319312 - Temperature Sensor TEMP001: 22
+Time: 1736319312 - Pressure Sensor PRES001: 233
+Time: 1736319312 - Vibration Sensor VIB001: 2 WARNING: Value outside safe range [10 - 40]
+____________________________________________________
+Time: 1736319313 - Temperature Sensor TEMP001: 18 WARNING: Value outside safe range [20 - 100]
+Time: 1736319313 - Pressure Sensor PRES001: 448
+Time: 1736319313 - Vibration Sensor VIB001: 27
+____________________________________________________
+Time: 1736319314 - Temperature Sensor TEMP001: 34
+Time: 1736319314 - Pressure Sensor PRES001: 325
+Time: 1736319314 - Vibration Sensor VIB001: 0 WARNING: Value outside safe range [10 - 40]
+____________________________________________________
+Time: 1736319320 - Temperature Sensor TEMP001: 61
+Time: 1736319320 - Pressure Sensor PRES001: 29 WARNING: Value outside safe range [100 - 500]
+Time: 1736319320 - Vibration Sensor VIB001: 29
+____________________________________________________
+Time: 1736319321 - Temperature Sensor TEMP001: 35
+Time: 1736319321 - Pressure Sensor PRES001: 238
+Time: 1736319321 - Vibration Sensor VIB001: 34
+____________________________________________________
+Time: 1736319322 - Temperature Sensor TEMP001: 73
+Time: 1736319322 - Pressure Sensor PRES001: 122
+Time: 1736319322 - Vibration Sensor VIB001: 58 WARNING: Value outside safe range [10 - 40]
+____________________________________________________
+Time: 1736319323 - Temperature Sensor TEMP001: 80
+Time: 1736319323 - Pressure Sensor PRES001: 171
+Time: 1736319323 - Vibration Sensor VIB001: 41 WARNING: Value outside safe range [10 - 40]
+____________________________________________________
+Time: 1736319324 - Temperature Sensor TEMP001: 33
+Time: 1736319324 - Pressure Sensor PRES001: 145
+Time: 1736319324 - Vibration Sensor VIB001: 49 WARNING: Value outside safe range [10 - 40]
+____________________________________________________
+Time: 1736319329 - Temperature Sensor TEMP001: 90
+Time: 1736319329 - Pressure Sensor PRES001: 264
+Time: 1736319329 - Vibration Sensor VIB001: 17
+____________________________________________________
+Time: 1736319330 - Temperature Sensor TEMP001: 55
+Time: 1736319330 - Pressure Sensor PRES001: 174
+Time: 1736319330 - Vibration Sensor VIB001: 45 WARNING: Value outside safe range [10 - 40]
+____________________________________________________
+Time: 1736319331 - Temperature Sensor TEMP001: 36
+Time: 1736319331 - Pressure Sensor PRES001: 534 WARNING: Value outside safe range [100 - 500]
+Time: 1736319331 - Vibration Sensor VIB001: 11
+____________________________________________________
+Time: 1736319332 - Temperature Sensor TEMP001: 119 WARNING: Value outside safe range [20 - 100]
+Time: 1736319332 - Pressure Sensor PRES001: 42 WARNING: Value outside safe range [100 - 500]
+Time: 1736319332 - Vibration Sensor VIB001: 10
+____________________________________________________
+Time: 1736319333 - Temperature Sensor TEMP001: 13 WARNING: Value outside safe range [20 - 100]
+Time: 1736319333 - Pressure Sensor PRES001: 247
+Time: 1736319333 - Vibration Sensor VIB001: 59 WARNING: Value outside safe range [10 - 40]
+____________________________________________________
+Time: 1736319404 - Temperature Sensor TEMP001: 93
+Time: 1736319404 - Pressure Sensor PRES001: 416
+Time: 1736319404 - Vibration Sensor VIB001: 2 WARNING: Value outside safe range [10 - 40]
+____________________________________________________
+Time: 1736319405 - Temperature Sensor TEMP001: 22
+Time: 1736319405 - Pressure Sensor PRES001: 270
+Time: 1736319405 - Vibration Sensor VIB001: 3 WARNING: Value outside safe range [10 - 40]
+____________________________________________________
+Time: 1736319407 - Temperature Sensor TEMP001: 101 WARNING: Value outside safe range [20 - 100]
+Time: 1736319407 - Pressure Sensor PRES001: 435
+Time: 1736319407 - Vibration Sensor VIB001: 39
+____________________________________________________
+Time: 1736319408 - Temperature Sensor TEMP001: 65
+Time: 1736319408 - Pressure Sensor PRES001: 81 WARNING: Value outside safe range [100 - 500]
+Time: 1736319408 - Vibration Sensor VIB001: 20
+____________________________________________________
+Time: 1736319409 - Temperature Sensor TEMP001: 7 WARNING: Value outside safe range [20 - 100]
+Time: 1736319409 - Pressure Sensor PRES001: 245
+Time: 1736319409 - Vibration Sensor VIB001: 13
+____________________________________________________
